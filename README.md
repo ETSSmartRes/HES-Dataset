@@ -4,10 +4,10 @@ Hall effect sensors Dataset for SILM and NILM.
 
 This dataset contains power consumption of 39 appliances or group of appliances all from the same house in the region of Montreal, Canada.
 
-Data are available for these periods:
+Data is available for these periods:
 * 12 to 31 May 2018
 * 1 to 30 June 2018
-* 1 to 31 July 2018 except 15th and 16th 
+* 1 to 31 July 2018 except 15 and 16
 * 1 to 30 September 2018
 
 The sample rate of the dataset is 1 Hz. Each file corresponds to one day and is organised in three columns. The file name corresponds to the date and columns are illustrated in the following example:
